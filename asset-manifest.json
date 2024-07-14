@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Front-end-developer-study1/static/css/main.7aa4c2ed.css",
+    "main.js": "/Front-end-developer-study1/static/js/main.87f08111.js",
+    "static/media/Group 9.png": "/Front-end-developer-study1/static/media/Group 9.3a2386f8f02f79d014fc.png",
+    "index.html": "/Front-end-developer-study1/index.html",
+    "main.7aa4c2ed.css.map": "/Front-end-developer-study1/static/css/main.7aa4c2ed.css.map",
+    "main.87f08111.js.map": "/Front-end-developer-study1/static/js/main.87f08111.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa4c2ed.css",
+    "static/js/main.87f08111.js"
+  ]
+}
